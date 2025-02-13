@@ -28,7 +28,7 @@ const About = () => {
         </p>
         <p className="text-md md:text-lg leading-relaxed text-gray-300 mt-3">
           I am currently pursuing my Master of Computer Applications (MCA)
-          in my final year, working on various projects in **frontend and backend development**.
+          in my final year, working on various projects in frontend and backend development.
         </p>
         <p className="text-md md:text-lg leading-relaxed text-gray-300 mt-3">
           Apart from coding, I enjoy listening to music, cooking, reading, and exploring new technologies.
